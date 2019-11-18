@@ -40,14 +40,6 @@ a {
   width: 150;
 }
 
-.left {
-  float: left;
-}
-
-.right {
-  float: right;
-}
-
 .center {
   height: 250;
   padding-left: 150;
@@ -103,6 +95,9 @@ a {
   /* For a screen < 540px, this CSS will be read */
   .container {
     width: 300px;
+  }
+  .card-white {
+    text-align: center;
   }
   .btn {
     margin-left: 35px;
